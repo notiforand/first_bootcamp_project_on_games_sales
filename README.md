@@ -1,1 +1,0 @@
-# first_bootcamp_project_on_games_sales
