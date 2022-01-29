@@ -23,7 +23,7 @@ The data set consists of historical game sales data scraped from open sources.
   
   The data set is generally informative, but there are many missing values in Scores and Ratings.
   
-  ## Roadmap of the project
+  ## The Project Roadmap
   
   1)Upload the dataset and explore the metadata -> 2) Prepare the data for further analysis -> 3)Exploratory data analysis by platforms/regions/genres -> 4)Testing sample hypotheses about platforms and genres -> 5) Presenting Conclusions
   
