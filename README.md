@@ -4,6 +4,8 @@
 
 Identify patterns that determine whether a game will succeed or not to identify potential big winners and plan marketing campaigns.
 
+## Data
+
 The data set consists of historical game sales data scraped from open sources. 
 16715 entries, each with 11 parameters: 
 
